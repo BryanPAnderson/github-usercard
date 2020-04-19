@@ -2,7 +2,7 @@
            (replacing the palceholder with your Github name):
            https://api.github.com/users/<your name>
 */
-axios.get("https://api.github.com/users/Alisa1989")
+axios.get("https://github.com/BryanPAnderson")
   .then(function (response) {
     // handle success
     console.log(response);
